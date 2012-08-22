@@ -13,6 +13,7 @@
 #   limitations under the License.
 #
 Frundis = {}
+Frundis.version = "1.0.0"
 
 ###
 Class Frundis.Steps
