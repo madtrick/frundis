@@ -118,7 +118,7 @@ machine.join "error", ->
 This stuff has been writen by Farruco sanjurjo
 
   * [@madtrick](https://twitter.com/madtrick) at twitter
-  * Blog at [blog.tenako.com](blog.tenako.com)
+  * Blog at [blog.tenako.com](http://blog.tenako.com)
 
 ### Contributions, bugs, etc ###
 
