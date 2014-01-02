@@ -1,3 +1,5 @@
+[![Analytics](https://ga-beacon.appspot.com/UA-46795389-1/frundis/README)](https://github.com/igrigorik/ga-beacon)
+
 # Frundis #
 
 This library providess a simple way to coordinate asynchronous code with ease.
