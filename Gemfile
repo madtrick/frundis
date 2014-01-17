@@ -2,6 +2,7 @@ source "http://rubygems.org"
 
 gem 'rake'
 gem 'guard-coffeescript'
+gem 'uglifier'
 
 group :test do
   gem "rake"
