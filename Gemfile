@@ -1,5 +1,8 @@
 source "http://rubygems.org"
 
+gem 'rake'
+gem 'guard-coffeescript'
+
 group :test do
   gem "rake"
   gem "jasmine"
