@@ -169,7 +169,7 @@ Below is a full example of the usage of a ```Frundis.Machine```.
 
 	```coffescript
 	machine.init()
-	``	
+	```	
 
 ### Author ###
 
